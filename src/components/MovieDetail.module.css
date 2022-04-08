@@ -1,0 +1,57 @@
+.largeImg{
+    width: 30%;
+    margin-left: 8%;
+    margin-right: 20%;
+    top: 100px;
+    position: relative;
+    background-color: transparent;
+}
+
+.detailTitle{
+    position: absolute;
+    padding-left: 50%;
+    top: 20%;
+    background-color: transparent;
+    font-size: xxx-large;
+    color:whitesmoke;
+}
+
+.detailcontainer {
+    position: absolute;
+    border: soled 0px transparent;
+    border-radius: 100px;
+    color:whitesmoke;
+    top: 270px;
+    background-color: transparent;
+    left: 48%;
+}
+
+.list {
+    background-color: transparent;
+    border: transparent 0px;
+}
+
+.detailList {
+    position: relative;
+    background-color: transparent;
+    width: 50%;
+    display: grid;
+    font-size: large;
+}
+
+button {
+    position: relative;
+    font-size: larger;
+    border: solid 3px red;
+    border-radius: 15px;
+    color: red;
+    left: 7%;
+}
+
+button:hover {
+    cursor: pointer;
+    opacity: 50%;
+}
+
+
+
